@@ -23,7 +23,7 @@ defmodule RealWorld.Mixfile do
   # Type `mix help deps` for examples and options.
   defp deps do
     [
-      {:mongodb_driver, git: "https://github.com/zookzook/elixir-mongodb-driver.git", ref: "d8c8652b4e66a0031e1a7fe36bc2af5c85cef408"}
+      {:mongodb_driver, git: "https://github.com/zookzook/elixir-mongodb-driver.git", ref: "d7c8652b4e66a0031e1a7fe36bc2af5c85cef408"}
     ]
   end
 end
